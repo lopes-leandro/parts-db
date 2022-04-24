@@ -1,5 +1,7 @@
 {
-  "Jobs": {
-    "title": { "string": ["asdfkjhaskjfdh", "asfasfd", "asfasdfasdf"] }
-  }
+  "Job": [
+    { "title": "asdfkjhaskjfdh" },
+    { "title": "asfasfd" },
+    { "title": "asfasdfasdf" }
+  ]
 }
