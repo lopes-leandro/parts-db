@@ -1,5 +1,5 @@
 {
-  "Job": {
-     "title": "asfasdfasdf" }
-  
+  "Job": [
+     {"title": "asfasdfasdf" }
+  ]
 }
